@@ -7,3 +7,5 @@ more deep learning repertoire03 #LSGAN
 # Discriminator Architecture
 ![dis](./LSGAN_D.png "dis")
 
+# Chainer Result Image
+![chain_donut](./chain_donut.png "donut")
